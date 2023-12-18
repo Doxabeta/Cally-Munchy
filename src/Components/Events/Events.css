@@ -1,0 +1,79 @@
+.frame {
+    height: 820px;
+    position: relative;
+    width: 1440px;
+}
+
+.frame .vector {
+    height: 43px;
+    left: 1315px;
+    position: absolute;
+    top: 70px;
+    width: 44px;
+}
+
+.frame .section-heading {
+    color: #000000;
+    font-family: "Pattaya-Regular", Helvetica;
+    font-size: 82px;
+    font-weight: 400;
+    height: 106px;
+    left: 977px;
+    letter-spacing: 2.05px;
+    line-height: 125px;
+    position: absolute;
+    top: 44px;
+    white-space: nowrap;
+    width: 331px;
+}
+
+.frame .section-from-the {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13.8px;
+    font-weight: 400;
+    height: 105px;
+    left: 616px;
+    letter-spacing: 0;
+    line-height: 28.8px;
+    position: absolute;
+    top: 315px;
+    width: 722px;
+}
+
+.frame .section-our-mission {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13.6px;
+    font-weight: 400;
+    height: 77px;
+    left: 623px;
+    letter-spacing: 0;
+    line-height: 28.8px;
+    position: absolute;
+    top: 210px;
+    width: 714px;
+}
+
+.frame .section {
+    height: 567px;
+    left: 32px;
+    position: absolute;
+    top: 191px;
+    width: 532px;
+}
+
+.frame .img {
+    height: 36px;
+    left: 1360px;
+    position: absolute;
+    top: 749px;
+}
+
+.frame .group {
+    height: 820px;
+    left: 0;
+    position: absolute;
+    top: 845px;
+    width: 1429px;
+}

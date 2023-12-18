@@ -1,0 +1,186 @@
+.frame {
+    height: 751px;
+    position: relative;
+    width: 620px;
+}
+
+.frame .email-required {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 55px;
+    left: 31px;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 119px;
+    white-space: nowrap;
+    width: 163px;
+}
+
+.frame .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+}
+
+.frame .span {
+    font-size: 15px;
+}
+
+.frame .phone-required {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 55px;
+    left: 31px;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 236px;
+    white-space: nowrap;
+    width: 163px;
+}
+
+.frame .overlap-group {
+    height: 100px;
+    left: 30px;
+    position: absolute;
+    top: 292px;
+    width: 560px;
+}
+
+.frame .nature-of-event {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 55px;
+    left: 0;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 45px;
+    white-space: nowrap;
+    width: 290px;
+}
+
+.frame .div {
+    border: 2px solid;
+    border-color: #000000;
+    height: 46px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 560px;
+}
+
+.frame .message-required {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 43px;
+    left: 30px;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 466px;
+    white-space: nowrap;
+    width: 213px;
+}
+
+.frame .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 44px;
+    left: 39px;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+    width: 165px;
+}
+
+.frame .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 44px;
+    left: 329px;
+    letter-spacing: 1.15px;
+    line-height: 74.7px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+    width: 165px;
+}
+
+.frame .div-2 {
+    border: 2px solid;
+    border-color: #000000;
+    height: 46px;
+    left: 31px;
+    position: absolute;
+    top: 175px;
+    width: 560px;
+}
+
+.img {
+    height: 46px;
+    left: 31px;
+    position: absolute;
+    top: 393px;
+    width: 560px;
+    background-image:url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/1ef93da8-4216-40db-abee-2974144808d7/Cally+Munchy+X+Abei-02.jpg?format=1500w")
+}
+
+.frame .div-3 {
+    border: 2px solid;
+    border-color: #000000;
+    height: 156px;
+    left: 29px;
+    position: absolute;
+    top: 518px;
+    width: 561px;
+}
+
+.frame .div-4 {
+    border: 2px solid;
+    border-color: #000000;
+    height: 46px;
+    left: 31px;
+    position: absolute;
+    top: 58px;
+    width: 264px;
+}
+
+.frame .div-5 {
+    border: 2px solid;
+    border-color: #000000;
+    height: 46px;
+    left: 327px;
+    position: absolute;
+    top: 58px;
+    width: 264px;
+}
+
+
+.frame .div-6 {
+    border: 2px solid;
+    border-color: #000000;
+    height: 46px;
+    left: 327px;
+    position: absolute;
+    top: 58px;
+    width: 264px;
+}

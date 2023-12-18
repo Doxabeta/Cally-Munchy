@@ -1,0 +1,30 @@
+.background {
+    color: #000000;
+}
+
+.frame {
+    height: 121px;
+    position: relative;
+    width: 770px;
+}
+
+.frame .OUR-MENU {
+    height: 46px;
+    left: 289px;
+    position: absolute;
+    top: 19px;
+    width: 292px;
+}
+
+.box {
+    height: 1px;
+    width: 683px;
+}
+
+.box .line {
+    height: 4px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 683px;
+}
