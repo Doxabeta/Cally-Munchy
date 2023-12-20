@@ -1,38 +1,131 @@
-.App {
-  text-align: center;
+.frame {
+  height: 131px;
+  position: absolute;
+  width: 1440px;
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.frame .image {
+  height: 105px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 149px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.frame .navbar {
+  height: 50px;
+  left: 420px;
+  position: absolute;
+  top: 81px;
+  width: 567px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.frame .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
 }
 
-.App-link {
-  color: #61dafb;
+.frame .div {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 238px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.frame .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 344px;
+  letter-spacing: -0.34px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 84px;
 }
+
+.frame .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 447px;
+  letter-spacing: -0.34px;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  width: 84px;
+}
+
+.frame .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+}
+
+.frame .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 17.2px;
+  font-weight: 500;
+  height: 26px;
+  left: 1183px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 86px;
+}
+
+.frame .uim-instagram-alt {
+  height: 24px;
+  left: 1339px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.frame .ic-baseline-facebook {
+  height: 24px;
+  left: 1381px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+button{
+  background-color: black;
+  color:white;
+}
+
+.last{
+  color:green;
+  background-color: rgb(94, 77, 3);
+}
+
+
