@@ -1,6 +1,32 @@
+/* .main{
+    background-color: black;
+} */
+
+.Contact-Main {
+    height: 168px;
+    width: 458px;
+}
+
+.Contact-Main .text-wrapper-1 {
+    color: black;
+    font-family: "Inter-ExtraBold", Helvetica;
+    padding-left: 800px;
+    font-size: 28.3px;
+    font-weight: 800;
+    height: 168px;
+    left: 0;
+    letter-spacing: 1.4px;
+    line-height: 65px;
+    position: absolute;
+    top: 0;
+    width: 458px;
+}
+
 .frame {
-    height: 751px;
-    position: relative;
+    height: 800px;
+    position: absolute;
+    padding: px;
+    margin-left: 900px;
     width: 620px;
 }
 
@@ -33,7 +59,7 @@
     font-size: 15px;
 }
 
-.frame .phone-required {
+/* .frame .phone-required {
     color: #000000;
     font-family: "Inter-Regular", Helvetica;
     padding: 20px;
@@ -47,7 +73,7 @@
     top: 236px;
     white-space: nowrap;
     width: 163px;
-}
+} */
 
 .frame .overlap-group {
     height: 100px;
@@ -74,13 +100,10 @@
 }
 
 .frame .div {
-    border: 2px solid;
-    border-color: #000000;
-    height: 46px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 560px;
+    border: 1.72px solid;
+    border-color: black;
+    height: 40px;
+    width: 481px;
 }
 
 .frame .message-required {
@@ -132,13 +155,10 @@
 }
 
 .frame .div-2 {
-    border: 2px solid;
-    border-color: #000000;
-    height: 46px;
-    left: 31px;
-    position: absolute;
-    top: 175px;
-    width: 560px;
+    border: 1.72px solid;
+    border-color: black;
+    height: 40px;
+    width: 227px;
 }
 
 .frame .img {
@@ -150,33 +170,24 @@
 }
 
 .frame .div-3 {
-    border: 2px solid;
-    border-color: #000000;
-    height: 156px;
-    left: 29px;
-    position: absolute;
-    top: 518px;
-    width: 561px;
+    border: 1.72px solid;
+    border-color: black;
+    height: 40px;
+    width: 227px;
 }
 
 .frame .div-4 {
-    border: 2px solid;
-    border-color: #000000;
-    height: 46px;
-    left: 31px;
-    position: absolute;
-    top: 58px;
-    width: 264px;
+    border: 1.72px solid;
+    border-color: black;
+    height: 40px;
+    width: 227px;
 }
 
 .frame .div-5 {
-    border: 2px solid;
-    border-color: #000000;
-    height: 46px;
-    left: 327px;
-    position: absolute;
-    top: 58px;
-    width: 264px;
+    border: 1.72px solid;
+    border-color: black;
+    height: 40px;
+    width: 227px;
 }
 
 .img {
@@ -195,14 +206,16 @@
     transform: 500px;
 }
 
-.cally-munchy-img {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/1ef93da8-4216-40db-abee-2974144808d7/Cally+Munchy+X+Abei-02.jpg?format=1500w");
+
+
+.Contact-Main .cally-munchy-img {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/31f46a1b-80b8-42df-b6fd-3251ed85f3b1/Cally+Munchy+X+Abei-14.jpg?format=1500w");
     background-size: cover;
-    margin-left: 650px;
-    padding-top: 100px;
+    margin: auto;
+    padding-top: 400px;
     margin-bottom: 100px;
     padding: 39.5px;
-    height: 600px;
-    width: 900px;
+    height: 900px;
+    width: 600px;
 
 }

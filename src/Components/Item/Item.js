@@ -16,12 +16,12 @@
 
 // export default Item;
 
-const Frame = () => {
-    return (
-        <div className="Frame">
-            <div className="overlap-group">
-                <img className="rectangle" alt="Rectangle" />
-            </div>
-        </div>
-    )
-}
+// const Frame = () => {
+//     return (
+//         <div className="Frame">
+//             <div className="overlap-group">
+//                 <img className="rectangle" alt="Rectangle" />
+//             </div>
+//         </div>
+//     )
+// }
