@@ -2,19 +2,18 @@ import React, { useState } from 'react';
 
 // import Menu from './Components/Menu/Menu';
 // import Item from './Components/Item/Item';
-// import Events from './Components/Events/Events';
-// import Enquiry from './Components/Enquiry/Enquiry';
-import ContactUs from './Components/ContactUs/ContactUs';
-// import Tester from './Components/ContactTester/js';
+import Events from './Components/Events/Events';
+import Enquiry from './Components/Enquiry/Enquiry';
+// import ContactUs from './Components/ContactUs/ContactUs';
+
 
 function App() {
   return (
     <div className="App">
-      {/* <Tester /> */}
-      <ContactUs />
+      {/* <ContactUs /> */}
       {/* <Menu /> */}
-      {/* <Events />  */}
-      {/* <Enquiry />  */}
+      <Events /> 
+      <Enquiry /> 
       {/* <Item /> */}
     </div>
   );

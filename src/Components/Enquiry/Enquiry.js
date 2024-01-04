@@ -4,6 +4,10 @@ const Frame = () => {
     return (
         <div>
             <div className="frame">
+
+            <div className="heading">EVENTS 
+                                    ENQUIRY</div>
+
                 <p className="email-required">
                     <span className="text-wrapper">Email</span>
                     <span className="span"> (required)</span>
