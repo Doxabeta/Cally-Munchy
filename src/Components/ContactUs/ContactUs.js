@@ -36,6 +36,9 @@ const ContactUs = () => {
                 <div className="div-6" />
             </div>
         </div>
+
+        
+
     );
 };
 

@@ -1,16 +1,16 @@
-/* .main{
+.main{
     background-color: black;
-} */
+}
 
-.Contact-Main {
+/* .Contact-Main {
     height: 168px;
     width: 458px;
-}
+} */
 
 .Contact-Main .text-wrapper-1 {
     color: black;
     font-family: "Inter-ExtraBold", Helvetica;
-    padding-left: 800px;
+    padding-left: 100px;
     font-size: 28.3px;
     font-weight: 800;
     height: 168px;
@@ -27,7 +27,7 @@
     position: absolute;
     padding: px;
     margin-left: 900px;
-    width: 620px;
+    width: 680px;
 }
 
 .frame .email-required {
@@ -59,21 +59,21 @@
     font-size: 15px;
 }
 
-/* .frame .phone-required {
+.frame .phone-required {
     color: #000000;
     font-family: "Inter-Regular", Helvetica;
     padding: 20px;
     font-size: 20px;
     font-weight: 400;
-    height: 55px;
+    /* height: 55px; */
     left: 31px;
     letter-spacing: 1.15px;
     line-height: 74.7px;
     position: absolute;
     top: 236px;
     white-space: nowrap;
-    width: 163px;
-} */
+    width: 153px;
+}
 
 .frame .overlap-group {
     height: 100px;
@@ -99,11 +99,11 @@
     width: 290px;
 }
 
-.frame .div {
+.frame {
     border: 1.72px solid;
     border-color: black;
-    height: 40px;
-    width: 481px;
+    height: 80px;
+    width: 480px;
 }
 
 .frame .message-required {
@@ -154,11 +154,18 @@
     width: 165px;
 }
 
+.frame .div{
+    border: 1.72px solid;
+    border-color: black;
+    height: 80px;
+    width: 480px;
+}
+
 .frame .div-2 {
     border: 1.72px solid;
     border-color: black;
     height: 40px;
-    width: 227px;
+    width: 200px;
 }
 
 .frame .img {
@@ -209,13 +216,13 @@
 
 
 .Contact-Main .cally-munchy-img {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/31f46a1b-80b8-42df-b6fd-3251ed85f3b1/Cally+Munchy+X+Abei-14.jpg?format=1500w");
+    background-image: url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/31f46a1b-80b8-42df-b6fd-3251ed85f3b1/Cally+Munchy+X+Abei-14.jpg?format=2500w");
     background-size: cover;
-    margin: auto;
-    padding-top: 400px;
-    margin-bottom: 100px;
+    /* margin: fixed; */
+    padding: 400px;
+    margin: 300px;
+    margin-left: 00px;
     padding: 39.5px;
-    height: 900px;
-    width: 600px;
-
+    height: 600px;
+    width: 500px;
 }
