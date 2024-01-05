@@ -4,10 +4,10 @@ const Frame = () => {
     return (
         <div>
             <div className="frame">
-
-            <div className="heading">EVENTS 
-                                    ENQUIRY</div>
-
+             <div className="heading">
+                    <span className="events">EVENTS</span>
+                    <span classsName="enquiry">ENQUIRY</span>
+                    </div>
                 <p className="email-required">
                     <span className="text-wrapper">Email</span>
                     <span className="span"> (required)</span>
