@@ -1,0 +1,136 @@
+.frame {
+    height: 131px;
+    position: absolute;
+    width: 100%;
+    background-color: black;
+  }
+
+  /* .frame {
+    height: 25px;
+    width: 50px;
+  } */
+  
+  .frame .image {
+    height: 105px;
+    left: 22px;
+    object-fit: cover;
+    position: absolute;
+    top: 19px;
+    width: 149px;
+  }
+  
+  .frame .navbar {
+    height: 50px;
+    left: 420px;
+    position: absolute;
+    top: 81px;
+    width: 567px;
+  }
+  
+  .frame .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16.6px;
+    font-weight: 500;
+    height: 25px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+  }
+  
+  .frame .div {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16.6px;
+    font-weight: 500;
+    height: 25px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 344px;
+    letter-spacing: -0.34px;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 84px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 447px;
+    letter-spacing: -0.34px;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 84px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 143px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+  }
+  
+  .frame .text-wrapper-5 {
+    -webkit-text-stroke: 0.96px #000000;
+    color: #fcb715;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16.6px;
+    font-weight: 500;
+    height: 28px;
+    left: 1550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 50px;
+    width: 112px;
+  }
+  
+  .frame .uim-instagram-alt {
+    height: 24px;
+    left: 1339px;
+    position: absolute;
+    top: 17px;
+    width: 24px;
+  }
+  
+  .frame .ic-baseline-facebook {
+    height: 24px;
+    left: 1381px;
+    position: absolute;
+    top: 16px;
+    width: 24px;
+  }
+  
+  button{
+    background-color: black;
+    color:white;
+  }
+  
+  .last{
+    color:green;
+    background-color: rgb(94, 77, 3);
+  }

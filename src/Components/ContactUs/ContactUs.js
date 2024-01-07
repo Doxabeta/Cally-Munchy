@@ -13,12 +13,16 @@ const ContactUs = () => {
                 <p className="phone-required div">
                     <span className="text-wrapper">Phone</span>
                     <span className="span"> (required)</span>
-                </p>
+                    </p>
                 <div className="overlap-group div">
                     <p className="nature-of-event div">
                         <span className="text-wrapper">Nature of Event</span>
                         <span className="span"> (required)</span>
                     </p>
+                    <div className="num-of-guests">
+                        <span className="text-wrapper">Number of Guests</span>
+                        <span className="span">(required)</span>
+                    </div>
                     <div className="div" />
                 </div>
                 <p className="message-required div">
@@ -34,6 +38,7 @@ const ContactUs = () => {
                 <div className="div-4" />
                 <div className="div-5" />
                 <div className="div-6" />
+                <div className="text-wrapper-4">SUBMIT</div>
             </div>
         </div>
     );

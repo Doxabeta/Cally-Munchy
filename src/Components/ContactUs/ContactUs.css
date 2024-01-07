@@ -2,10 +2,10 @@
     background-color: black;
 }
 
-/* .Contact-Main {
-    height: 168px;
+.Contact-Main {
+    height: 150px;
     width: 458px;
-} */
+}
 
 .Contact-Main .text-wrapper-1 {
     color: black;
@@ -75,33 +75,32 @@
     width: 153px;
 }
 
-/* .frame .overlap-group {
+.frame .overlap-group {
     height: 100px;
     left: 30px;
     position: absolute;
     top: 292px;
     width: 560px;
-} */
+}
 
 .frame .nature-of-event {
     color: black;
     font-family: "Inter-Regular", Helvetica;
-    padding: 330px;
     font-size: 20px;
     font-weight: 400;
-    height: px;
     left: 0;
     letter-spacing: 1.15px;
     line-height: 74.7px;
     position: absolute;
     top: 45px;
     white-space: nowrap;
+    height: 50px;
     width: 290px;
 }
 
 .frame {
     border: 1.72px solid;
-    /* border-color: black; */
+    border-color: black;
     padding: 20px;
     padding-right: 20px;
     height: 50px;
@@ -157,65 +156,80 @@
     width: 165px;
 }
 
+.frame .text-wrapper-4 {
+    color: #fcb715;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 28.3px;
+    font-weight: 400;
+    padding: 0px;
+    height: 65px;
+    left: 200px;
+    letter-spacing: 0.99px;
+    line-height: 64.1px;
+    position: absolute;
+    top: -9px;
+    white-space: nowrap;
+  }
+
 .frame .div{
-    border: 1.72px solid;
-    border-color: blue;
+    border: 1.72px solid blue;
+    padding-left: 0px;
     height: 80px;
-    padding-left: 50px;
-    /* width: 480px; */
+    width: 400px;
+    margin-bottom: 60px;
 }
 
-/* .frame .div-2 {
+.frame .div-2 {
     border: 1.72px solid;
     border-color: black;
     height: 40px;
     width: 200px;
-} */
+} 
 
-/* .frame .img {
+ .frame .img {
     height: 46px;
     left: 31px;
     position: absolute;
     top: 393px;
     width: 560px;
-} */
+} 
 
-/* .frame .div-3 {
+ .frame .div-3 {
     border: 1.72px solid;
     border-color: black;
     height: 40px;
     width: 227px;
-} */
+} 
 
-/* .frame .div-4 {
+ .frame .div-4 {
     border: 1.72px solid;
     border-color: black;
     height: 40px;
     width: 227px;
-} */
+} 
 
-/* .frame .div-5 {
+ .frame .div-5 {
     border: 1.72px solid;
     border-color: black;
     height: 40px;
     width: 227px;
-} */
+} 
 
-/* .img {
+.img {
     border: 2px solid;
     border-color: #000000;
     height: 156px;
     width: 561px;
-} */
+} 
 
-/* .frame .div-6 {
+ .frame .div-6 {
     border: 2px solid;
     border-color: #000000;
     height: 46px;
     width: 560px;
     padding-right: 20px;
     transform: 500px;
-} */
+}
 
 
 

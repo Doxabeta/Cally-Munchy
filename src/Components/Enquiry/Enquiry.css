@@ -13,7 +13,7 @@
     font-size: 82px;
     font-weight: 400;
     height: 106px;
-    left: 70px;
+    left: -75px;
     letter-spacing: 2.05px;
     line-height: 125px;
     position: relative;
@@ -23,8 +23,7 @@
 
 .frame .heading .events{
     color: #000000;
-    top: -120px;
-    padding-right: -130px;
+    top: -100px;
     font-family: "Pattaya-Regular", Helvetica;
     font-size: 82px;
     font-weight: 400;
@@ -46,7 +45,7 @@
     letter-spacing: 2.05px;
     line-height: 125px;
     position: absolute;
-    padding-left: 200px;
+    padding: 200px;
     white-space: nowrap;
     width: 331px;
 }
@@ -107,7 +106,6 @@
 .frame .nature-of-event {
     color: black;
     font-family: "Inter-Regular", Helvetica;
-    padding: 20px;
     font-size: 20px;
     font-weight: 400;
     height: 55px;
