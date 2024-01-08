@@ -1,0 +1,176 @@
+.frame {
+    height: 131px;
+    position: absolute;
+    width: 1440px;
+    background-color: transparent;
+}
+
+.frame .image {
+    height: 105px;
+    left: 22px;
+    object-fit: cover;
+    position: absolute;
+    top: 19px;
+    width: 149px;
+}
+
+.frame .navbar {
+    height: 50px;
+    left: 420px;
+    position: absolute;
+    top: 81px;
+    width: 567px;
+}
+
+.frame .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+}
+
+.frame .div {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 270px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+    border: none;
+}
+
+.frame .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 344px;
+    letter-spacing: -0.34px;
+    line-height: normal;
+    position: absolute;
+    top: -20px;
+    width: 84px;
+}
+
+.frame .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 450px;
+    letter-spacing: -0.34px;
+    line-height: normal;
+    position: absolute;
+    top: -20px;
+    width: 84px;
+}
+
+.frame .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 143px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+}
+
+.frame .text-wrapper-5 {
+    color: orange;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 17.2px;
+    font-weight: 500;
+    height: 26px;
+    left: 1183px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 93px;
+}
+
+.frame .uim-instagram-alt {
+    height: 24px;
+    left: 1339px;
+    position: absolute;
+    top: 17px;
+    width: 24px;
+}
+
+.frame .ic-baseline-facebook {
+    height: 24px;
+    left: 1381px;
+    position: absolute;
+    top: 16px;
+    width: 24px;
+}
+
+.last {
+    appearance: none;
+    background-color: transparent;
+    border: 0.125em solid orange;
+    border-radius: 0.9375em;
+    box-sizing: border-box;
+    color: orange;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 2.75em;
+    min-width: 0;
+    outline: none;
+    padding: 1em 1.3em;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    will-change: transform;
+}
+
+.last:disabled {
+    pointer-events: none;
+}
+
+.last:hover {
+    color: black;
+    background-color: orange;
+    box-shadow: orange;
+    transform: translateY(-2px);
+}
+
+.last:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+
+button {
+    background-color: black;
+    color: white;
+}
+
+
+
+/* .last {
+    color: black;
+    background-color: orange;
+} */
