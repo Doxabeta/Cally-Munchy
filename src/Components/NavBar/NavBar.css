@@ -41,7 +41,7 @@
     font-size: 17.2px;
     font-weight: 500;
     height: 26px;
-    left: 270px;
+    left: 250px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -55,11 +55,11 @@
     font-size: 17.2px;
     font-weight: 500;
     height: 26px;
-    left: 347px;
+    left: 355px;
     letter-spacing: -0.34px;
     line-height: normal;
     position: absolute;
-    top: -20px;
+    top: 10px;
     width: 84px;
 }
 
@@ -69,11 +69,11 @@
     font-size: 17.2px;
     font-weight: 500;
     height: 26px;
-    left: 450px;
+    left: 460px;
     letter-spacing: -0.34px;
     line-height: normal;
     position: absolute;
-    top: -20px;
+    top: 10px;
     width: 84px;
 }
 
