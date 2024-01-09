@@ -1,0 +1,56 @@
+.shop-header {
+    display: flex;
+    height: 57px;
+    width: 530px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 110%;
+    top: -100px;
+ 
+ 
+ 
+ 
+}
+ 
+.shop-header-img img{
+ 
+    width: 500px;
+    height: 550px;
+    flex-shrink: 0;
+    top: 100%;
+ 
+ 
+ 
+}
+ 
+.shop-section {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 47.1px;
+    font-weight: 200;
+}
+ 
+.our-chilli-sauce {
+    color: #000000;
+    font-size: 13px;
+    font-weight: 400;
+    height: 73px;
+    width: 618px;
+}
+ 
+.find-out-more-btn {
+    align-items: center;
+    border: 2px solid #fcb715;
+    background-color: #fcb715;
+    color: black;
+    display: inline-flex;
+    justify-content: center;
+    cursor: pointer;
+    float: top;
+    margin-top: 1px;
+ 
+}
+ 
+.find-out-more-btn:hover {
+    transform: scale(1.25);
+}

@@ -1,22 +1,34 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 
-// import Menu from './Components/Menu/Menu';
-// import Item from './Components/Item/Item';
+
 import Events from './Components/Events/Events';
-import Enquiry from './Components/Enquiry/Enquiry';
+// import Enquiry from './Components/Enquiry/Enquiry';
 import Intro from './Components/Intro/Intro';
-import NavBar from "./Components/NavBar/NavBar"
+import NavBar from "./Components/NavBar/NavBar";
+// import ShopCards from './Components/ShopCards/ShopCards';
+import Menu from "./Components/Menu/Menu"
+import UpcomingEvents from "./Components/UpcomingEvents/UpcomingEvents";
+import Calendar from './Components/Calendar/Calendar';
+import Shop from './Components/Shop/Shop';
+import Chatbot from './Components/Chatbot/Chatbot';
 
 
 function App() {
   return (
     <div className="App">
+      <Chatbot />
       <NavBar />
       <Intro />
-      {/* <Events />  
-      <Enquiry />  */}
-      {/* <Menu /> */}
-      {/* <Item /> */}
+      <Events />  
+      <UpcomingEvents />
+      <Calendar />
+      <Menu />
+      <Shop />
+
+
+      {/* <Enquiry />  */}
+      {/* <ShopCards /> */}
+
     </div>
   );
 }

@@ -121,7 +121,7 @@
 
 .frame .div {
     border: 2px solid;
-    border-color: #000000;
+    border-color: black;
     height: 46px;
     left: 0;
     position: absolute;
@@ -246,8 +246,8 @@
     background-image: url("https://images.squarespace-cdn.com/content/v1/64e3926eb597a92d578672bc/1ef93da8-4216-40db-abee-2974144808d7/Cally+Munchy+X+Abei-02.jpg?format=1500w");
     background-size: cover;
     margin-left: 600px;
-    top: -0px;
-    height: 400px;
+    top: 30px;
+    height: 700px;
     width: 750px;
     margin-bottom: 100px;
 }
